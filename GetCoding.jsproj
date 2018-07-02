@@ -58,6 +58,9 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="css.html" />
+    <Content Include="divs.html" />
+    <Content Include="images.html" />
     <Content Include="images\diamond.jpg" />
     <Content Include="images\LockScreenLogo.scale-200.png" />
     <Content Include="images\MonkDiamondFactfile-1.png" />
